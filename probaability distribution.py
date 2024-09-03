@@ -65,7 +65,7 @@ class ProbabilityDistribution:
         plt.grid(True)
         plt.show()
 
-# Example usage
+
 if __name__ == "__main__":
     # Normal distribution
     normal_dist = ProbabilityDistribution(stats.norm(loc=0, scale=1))
